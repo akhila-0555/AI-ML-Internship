@@ -1,0 +1,5 @@
+print("Welcome to my AI & ML Internship!")
+print("Name: Bandari Beeramma")
+print("Day 1: Environment Setup Completed")
+print("Python is installed successfully.")
+print("Ready to begin my AI & Machine Learning journey!")
